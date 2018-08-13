@@ -6,7 +6,7 @@ while(n>0):
 	sum=sum*10+a
 	n=n//10
 if(sum==rem):
-	print("Yes")
+	print("yes")
 else:
-	print("No")
+	print("no")
 	
