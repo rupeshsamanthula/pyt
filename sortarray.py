@@ -5,4 +5,4 @@ for i in range(0,n):
 	if i<n-1:
 		k=" "
 	else:k=''
-	print(i,end=" ")
+	print(a[i],end=" ")
