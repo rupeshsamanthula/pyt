@@ -2,7 +2,7 @@ n,k=input().split()
 n=int(n)
 k=int(k)
 count=0
-for i in range(n,k+1):
+for i in range(n,k):
 	temp=i
 	b=0
 	#for j in range(0,i):
